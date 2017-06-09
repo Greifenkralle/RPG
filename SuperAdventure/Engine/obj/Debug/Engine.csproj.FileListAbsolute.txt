@@ -1,0 +1,5 @@
+c:\users\kaiser\documents\visual studio 2013\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
+c:\users\kaiser\documents\visual studio 2013\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
+c:\users\kaiser\documents\visual studio 2013\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
+c:\users\kaiser\documents\visual studio 2013\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Kaiser\documents\visual studio 2013\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
